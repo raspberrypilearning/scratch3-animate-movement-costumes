@@ -1,11 +1,10 @@
-title: scratch3-animate-movement-costumes
+title: Animate sprite movement with costumes
 hero_image: images/banner.png
-description: scratch3-animate-movement-costumes description
+description: Animate sprite movement such as walking or flying by switching between specific costumes.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Animate sprite movement with costumes
+
