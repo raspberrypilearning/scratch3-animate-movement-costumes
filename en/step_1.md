@@ -1,5 +1,3 @@
-## Animate sprite movement with costumes
-
 **Hedgehog walking**: [See inside](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
 
 <div class="scratch-preview">
