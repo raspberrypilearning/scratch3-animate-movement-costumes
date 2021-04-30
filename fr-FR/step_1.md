@@ -7,15 +7,15 @@
 Tu peux utiliser `basculer sur le costume`{:class="block3looks"} et les blocs`mouvement`{:class="block3motion"} dans une boucle `répéter`{:class="block3control"} pour animer un personnage en mouvement. Change le temps dans le bloc `attendre`{:class="block3control"} pour changer la vitesse.
 
 ```blocks3
-quand le drapeau vert est cliqué // basculer entre deux costumes
-répéter [20] fois
-basculer sur le costume [hedgehog-a v]
-avancer de [3] pas
-attendre [0.1] secondes
-basculer sur le costume [hedgehog-b v]
-avancer de [3] pas
-attendre [0.1] secondes
-fin
+when flag clicked // switch between two costumes
+repeat [20]
+switch costume to [hedgehog-a v]
+move [3] steps
+wait [0.1] seconds
+switch costume to [hedgehog-b v]
+move [3] steps
+wait [0.1] seconds
+end
 ```
 
 **Astuce :** si tu veux utiliser tous les costumes d'un sprite, tu peux simplement utiliser le bloc `costume suivant`{:class="block3looks"} dans une boucle.
