@@ -22,5 +22,5 @@ end
 
 **Tip:** Verhoog het aantal stappen in elke `neem stappen`{:class="block3motion"} blok om sneller te gaan. Verander het getal in de `herhaal`{:class="block3control"} lus om de afstand aan te passen.
 
-**tip:** Om `neem stappen`{:class="block3motion"} achteruit te doen, kun je negatieve getallen gebruiken, zoals `neem`{:class="block3motion"} `-3` `stappen`{:class="block3motion"} gebruiken. Of je kunt een `richt naar`{:class="block3motion"} `-90 graden` blok gebruiken om de richting van de sprite te veranderen voordat de sprite beweegt(`-90` wijst naar links). 
+**Tip:** Om `neem stappen`{:class="block3motion"} achteruit te doen, kun je negatieve getallen gebruiken, zoals `neem`{:class="block3motion"} `-3` `stappen`{:class="block3motion"} gebruiken. Of je kunt een `richt naar`{:class="block3motion"} `-90 graden` blok gebruiken om de richting van de sprite te veranderen voordat de sprite beweegt(`-90` wijst naar links). 
 
