@@ -20,7 +20,7 @@ end
 
 **Astuce :** si tu veux utiliser tous les costumes d'un sprite, tu peux simplement utiliser le bloc `costume suivant`{:class="block3looks"} dans une boucle.
 
-**Astuce :** augmenter le nombre de pas dans chaque bloc `avancer`{:class="block3motion"} pour aller plus vite. Change le nombre dans la boucle `répéter`{:class="block3control"} pour ajuster la distance.
+**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. Change le nombre dans la boucle `répéter`{:class="block3control"} pour ajuster la distance.
 
-**Astuce :** pour `avancer`{:class="block3motion"} en arrière, tu peux utiliser des nombres négatifs, tels que `avancer de`{:class="block3motion"} `-3` `pas`{:class="block3motion"}. Ou, tu peux utiliser un bloc `s'orienter à`{:class="block3motion"} `-90` pour changer la direction du sprite avant que le sprite ne bouge (`-90` points vers la gauche). 
+**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. Ou, tu peux utiliser un bloc `s'orienter à`{:class="block3motion"} `-90` pour changer la direction du sprite avant que le sprite ne bouge (`-90` points vers la gauche). 
 
