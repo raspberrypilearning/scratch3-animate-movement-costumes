@@ -20,7 +20,7 @@ end
 
 **نصيحة:** إذا كنت تريد استخدام جميع الأزياء التي يمتلكها الكائن ، يمكنك فقط استخدام `المظهر التالي`{: class = "block3looks"} في حلقة التكرار.
 
-**نصيحة:** بزيادة عدد الخطوات في كل كتلة `حركة`{: class = "block3motion"} لتعمل بشكل أسرع. قم بتغيير الرقم في الحلقة `كرر`{: class = "block3control"} لضبط المسافة.
+**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. قم بتغيير الرقم في الحلقة `كرر`{: class = "block3control"} لضبط المسافة.
 
-**نصيحة:** إلى `تحرك`{: class = "block3motion"} للخلف ، يمكنك استخدام الأرقام السالبة ، مثل `تحرك`{: class = "block3motion"} `-3` `خطوات`{: class = "block3motion "}. أو يمكنك استخدام كتلة `في الاتجاه`{: class = "block3motion"} `-90` لتغيير اتجاه الكائن قبل أن يتحرك الكائن (`-90` نقاط إلى اليسار). 
+**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. أو يمكنك استخدام كتلة `في الاتجاه`{: class = "block3motion"} `-90` لتغيير اتجاه الكائن قبل أن يتحرك الكائن (`-90` نقاط إلى اليسار). 
 
