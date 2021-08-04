@@ -22,5 +22,5 @@ end
 
 **نصيحة:** بزيادة عدد الخطوات في كل `حركة` للكتلة {: class = "block3motion"} لجعل الكائن يتحرك بشكل أسرع. قم بتغيير الرقم في الحلقة `كرر`{: class = "block3control"} لضبط المسافة.
 
-**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. أو يمكنك استخدام كتلة `في الاتجاه`{: class = "block3motion"} `-90` لتغيير اتجاه الكائن قبل أن يتحرك الكائن (`-90` نقاط إلى اليسار). 
+**نصيحة:** لجعل الكائن `يتحرك`{: class = "block3motion"} للخلف ، يمكنك استخدام الأرقام السالبة ، على سبيل المثال ، `حرك`{: class = "block3motion"} `-3` `خطوات`{: class = "block3motion"}. أو يمكنك استخدام كتلة `في الاتجاه`{: class = "block3motion"} `-90` لتغيير اتجاه الكائن قبل أن يتحرك الكائن (`-90` نقاط إلى اليسار). 
 
