@@ -1,7 +1,7 @@
-**Lopende egel**: [Bekijk van binnen](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Lopende egel**: [Bekijk van binnen](https://scratch.mit.edu/projects/528197865/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528197865/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Je kunt `verander uiterlijk naar`{:class="block3looks"} en `neem stappen`{:class="block3motion"} blokken in een `herhaal`{:class="block3control"} lus gebruiken om een bewegende sprite te animeren. Verander de tijd in het `wacht`{:class="block3control"} blok om de snelheid te veranderen.

@@ -1,7 +1,7 @@
-**Hérisson marchant** : [Voir à l'intérieur](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Hérisson marchant** : [Voir à l'intérieur](https://scratch.mit.edu/projects/523659509/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523659509/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Tu peux utiliser `basculer sur le costume`{:class="block3looks"} et les blocs`mouvement`{:class="block3motion"} dans une boucle `répéter`{:class="block3control"} pour animer un personnage en mouvement. Change le temps dans le bloc `attendre`{:class="block3control"} pour changer la vitesse.
