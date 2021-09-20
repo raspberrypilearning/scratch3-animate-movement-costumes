@@ -1,10 +1,14 @@
-**Hedgehog walking**: [See inside](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Ouriço caminhando</a>**:
+
+Ver interior </1>{:target="_blank"}</p>
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} and `move`{:class="block3motion"} blocks in a `repeat`{:class="block3control"} loop to animate a moving character. Change the time in the `wait`{:class="block3control"} block to change the speed.
+Você pode usar `Alternar fantasia para `{:class="block3looks"} e `mover blocos`{:class="block3motion"} em um `repetir loop`{:class="block3control"} para animar o movimento do personagem. Mude o tempo no `Bloco esperar`{:class="block3control"} para mudar a velocidade.
+
+
 
 ```blocks3
 when flag clicked // switch between two costumes
@@ -18,9 +22,10 @@ wait [0.1] seconds
 end
 ```
 
-**Tip:** If you want to use all the costumes that a sprite has, you can just use the `next costume`{:class="block3looks"} block in a loop.
 
-**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. Change the number in the `repeat`{:class="block3control"} loop to adjust the distance.
+**Dica:** Se você quer usar todas as fantasias que o ator tem, você pode usar o bloco `próxima fantasia`{:class="block3looks"} em um loop.
 
-**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. Or, you can use a `point in direction`{:class="block3motion"} `-90` block to change the sprite's direction before the sprite moves (`-90` points to the left). 
+**Dica:** Aumente o número de passos em cada bloco `mover`{:class="block3motion"} para fazer o ator ir mais rápido. Mude o número de loop no `Repetir`{:class="block3control"} para ajustar a distância.
+
+**Dica:** Para fazer o ator mover para trás `mover`{:class="block3motion"}, você pode usar números negativos, por exemplo, `mover`{:class="block3motion"} `-3` `passos`{:class="block3motion"}. Ou, você pode usar o bloco `ponto na direção`{:class="block3motion"} `-90` para mudar a direção do sprite antes que ele se mova (`-90` pontos à esquerdat). 
 
