@@ -1,4 +1,4 @@
-**Ouriço caminhando</a>**: [Ver interior](https://scratch.mit.edu/projects/572543578/editor){:target="_blank"}
+**Ouriço caminhando**: [Ver interior](https://scratch.mit.edu/projects/572543578/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/572543578/?autostart=false" frameborder="0"></iframe>
