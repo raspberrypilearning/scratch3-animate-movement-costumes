@@ -1,14 +1,10 @@
-**Ouriço caminhando</a>**:
-
-Ver interior </1>{:target="_blank"}</p>
+**Ouriço caminhando**: [Ver interior ](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Você pode usar `Alternar fantasia para `{:class="block3looks"} e `mover blocos`{:class="block3motion"} em um `repetir loop`{:class="block3control"} para animar o movimento do personagem. Mude o tempo no `Bloco esperar`{:class="block3control"} para mudar a velocidade.
-
-
 
 ```blocks3
 when flag clicked // switch between two costumes
@@ -21,7 +17,6 @@ move [3] steps
 wait [0.1] seconds
 end
 ```
-
 
 **Dica:** Se você quer usar todas as fantasias que o ator tem, você pode usar o bloco `próxima fantasia`{:class="block3looks"} em um loop.
 
