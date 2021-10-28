@@ -4,7 +4,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/591163631/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Μπορείς να χρησιμοποιήσεις τα μπλοκ `άλλαξε ενδυμασία σε`{:class="block3looks"} και `κινήσου`{:class="block3motion"} σε ένα βρόχο `επανάλαβε`{:class="block3control"} για να κάνεις ένα αντικείμενο να κινείται. Άλλαξε την ώρα στο μπλοκ `περίμενε`:class="block3control"} για να αλλάξεις την ταχύτητα.
+Μπορείς να χρησιμοποιήσεις τα μπλοκ `άλλαξε ενδυμασία σε`{:class="block3looks"} και `κινήσου`{:class="block3motion"} σε ένα βρόχο `επανάλαβε`{:class="block3control"} για να κάνεις ένα αντικείμενο να κινείται. Άλλαξε την ώρα στο μπλοκ `περίμενε`{:class="block3control"} για να αλλάξεις την ταχύτητα.
 
 ```blocks3
 when flag clicked // εναλλαγή μεταξύ δύο ενδυμασιών
