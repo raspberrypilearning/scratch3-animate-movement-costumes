@@ -1,0 +1,10 @@
+---
+title: コスチュームでスプライトの動きをアニメ化する
+hero_image: images/banner.png
+description: 特定のコスチュームを切り替えることで、歩いたり飛んだり、スプライトの動きをアニメ化します
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-10"
+steps:
+  - title: コスチュームでスプライトの動きをアニメ化する
