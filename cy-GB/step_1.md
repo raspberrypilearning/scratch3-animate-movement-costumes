@@ -1,10 +1,10 @@
-**Hedgehog walking**: [See inside](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Draenog yn cerdded**: [Gweld tu mewn](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} and `move`{:class="block3motion"} blocks in a `repeat`{:class="block3control"} loop to animate a moving character. Change the time in the `wait`{:class="block3control"} block to change the speed.
+Galli di ddefnyddio'r blociau `newid gwisg i`{:class="block3looks"} a `symud`{:class="block3motion"} mewn dolen `ailadrodd`{:class="block3control"} i animeiddio cymeriad sy'n symud. Newidia yr amser oedi yn y bloc `aros`{:class="block3control"} i newid y cyflymder.
 
 ```blocks3
 when flag clicked // switch between two costumes
@@ -18,9 +18,9 @@ wait [0.1] seconds
 end
 ```
 
-**Tip:** If you want to use all the costumes that a sprite has, you can just use the `next costume`{:class="block3looks"} block in a loop.
+**Awgrym:** Os wyt ti am ddefnyddio'r holl wisgoedd sydd gan gorlun, gallid di ddefnyddio'r bloc `gwisg nesaf`{:class="block3looks"} mewn dolen.
 
-**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. Change the number in the `repeat`{:class="block3control"} loop to adjust the distance.
+**Awgrym:** Cynydda nifer y cymaua ym mhob bloc `symud`{:class="block3motion"} i wneud i'r corlun fynd yn gyflymach. Newidia'r rhif yn y ddolen `ailadrodd`{:class="block3control"} i addasu'r pellter.
 
-**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. Or, you can use a `point in direction`{:class="block3motion"} `-90` block to change the sprite's direction before the sprite moves (`-90` points to the left). 
+**Awgrym:** I wneud i gorlun `symud`{:class="block3motion"} am yn ôl, galli di ddefnyddio rhifau negyddol, er enghraifft, `symud`{:class="block3motion"} `-3` `cam`{:class="block3motion"}. Neu, galli di ddefnyddio bloc `pwyntio i gyfeiriad`{:class="block3motion"} `-90` i newid cyfeiriad y corlun cyn i'r corlun symud (`-90` pwynt i'r chwith). 
 
