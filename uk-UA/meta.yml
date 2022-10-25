@@ -1,11 +1,11 @@
 ---
-title: Animate sprite movement with costumes
+title: Анімація руху спрайтів з образами
 hero_image: images/banner.png
-description: Animate sprite movement, such as walking or flying, by switching between specific costumes
+description: Анімація рухів спрайтів, наприклад, ходьба або політ, шляхом переключення між конкретними образами
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
   - 
-    title: Animate sprite movement with costumes
+    title: Анімація руху спрайтів з образами
