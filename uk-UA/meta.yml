@@ -1,0 +1,10 @@
+---
+title: Анімація руху спрайтів з образами
+hero_image: images/banner.png
+description: Анімація рухів спрайтів, наприклад, ходьба або політ, шляхом переключення між конкретними образами
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-10"
+steps:
+  - title: Анімація руху спрайтів з образами
