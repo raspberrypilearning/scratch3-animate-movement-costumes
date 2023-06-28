@@ -22,4 +22,4 @@ end
 
 **Astuce :** Augmente le nombre de pas dans chaque bloc `avancer de`{:class="block3motion"} pour aller plus vite. Change le nombre dans la boucle `répéter`{:class="block3control"} pour ajuster la distance.
 
-**Astuce :** Pour faire `avancer`{:class="block3motion"} le sprite, tu peux utiliser des nombres négatifs, par exemple, `avancer de`{:class="block3motion"} `-3` `pas`{:class="block3motion"}. Ou, tu peux utiliser un bloc `s'orienter à`{:class="block3motion"} `-90` pour changer la direction du sprite avant que le sprite ne bouge (`-90` points vers la gauche).
+**Astuce :** Pour faire `reculer`{:class="block3motion"} le sprite, tu peux utiliser des nombres négatifs, par exemple, `avancer de`{:class="block3motion"} `-3` `pas`{:class="block3motion"}. Ou, tu peux utiliser un bloc `s'orienter à`{:class="block3motion"} `-90` pour changer la direction du sprite avant que le sprite ne bouge (`-90` points vers la gauche).
