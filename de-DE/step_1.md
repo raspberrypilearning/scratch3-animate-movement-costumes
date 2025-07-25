@@ -1,10 +1,10 @@
-**Hedgehog walking**: [See inside](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Laufender Igel**: [Ansehen](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} and `move`{:class="block3motion"} blocks in a `repeat`{:class="block3control"} loop to animate a moving character. Change the time in the `wait`{:class="block3control"} block to change the speed.
+Du kannst `wechsle zu Kostüm`{:class="block3looks"} und `gehe`{:class="block3motion"} Schritt verwenden, um eine sich bewegende Figur mithilfe einer `wiederhole`{:class="block3control"}-Schleife zu animieren. Ändere die Zeit im `warte`{:class="block3control"}-Block, um die Geschwindigkeit einzustellen.
 
 ```blocks3
 when flag clicked // switch between two costumes
@@ -18,9 +18,9 @@ wait [0.1] seconds
 end
 ```
 
-**Tip:** If you want to use all the costumes that a sprite has, you can just use the `next costume`{:class="block3looks"} block in a loop.
+**Tipp:** Sieh dir alle Kostüme für eine Figur an, indem du den Block `nächstes Kostüm`{:class="block3looks"} in einer Schleife verwendest.
 
-**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. Change the number in the `repeat`{:class="block3control"} loop to adjust the distance.
+**Tipp:** Erhöhe die Anzahl der Schritte in allen `bewege`{:class="block3motion"}-Blöcken, damit sich die Figur schneller bewegt. Erhöhe die Anzahl in der `wiederhole`{:class="block3control"}-Schleife, um die Entfernung anzupassen.
 
-**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. Or, you can use a `point in direction`{:class="block3motion"} `-90` block to change the sprite's direction before the sprite moves (`-90` points to the left). 
+**Tipp:** Damit sich die Figur rückwärts `bewegt`{:class="block3motion"}, verwendest du negative Zahlen, z. B. `bewege`{:class="block3motion"} `-3` `Schritt`{:class="block3motion"}. Außerdem gibt es einen `setze Richtung auf`{:class="block3motion"} `-90` Grad-Block, mit dem du die Richtung der Figur änderst, bevor sie sich zu bewegen beginnt (`-90` Grad nach links). 
 
