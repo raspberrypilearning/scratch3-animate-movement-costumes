@@ -1,10 +1,10 @@
-**Hedgehog walking**: [See inside](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
+**Ukuhamba kweNcanda**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/499398615/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499398615/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} and `move`{:class="block3motion"} blocks in a `repeat`{:class="block3control"} loop to animate a moving character. Change the time in the `wait`{:class="block3control"} block to change the speed.
+Ungasebenzisa `guqulela ikhostyum ku`{:class="block3looks"} kwaye nebhloko  `hamba`{:class="block3motion"} kwiluphu `phinda`{:class="block3control"} ukuze uphile umlinganiswa ngenshukumo. Tshintsha ixesha kwi-block  `linda`{:class="block3control"} ukuze utshintshe isantya.
 
 ```blocks3
 when flag clicked // switch between two costumes
@@ -18,9 +18,9 @@ wait [0.1] seconds
 end
 ```
 
-**Tip:** If you want to use all the costumes that a sprite has, you can just use the `next costume`{:class="block3looks"} block in a loop.
+**Icebiso:** Ukuba ufuna ukusebenzisa zonke ikhostyum zesprite, ungasebenzisa nje ibhloko `elandelayo ikhostyum`{:class="block3looks"} uyifake kwi luphu.
 
-**Tip:** Increase the number of steps in each `move`{:class="block3motion"} block to make the sprite go faster. Change the number in the `repeat`{:class="block3control"} loop to adjust the distance.
+**Ingcebiso:** Yandisa inani lamanyathelo kwibhloko `hamba`{:class="block3motion"} ukuze wenze i-sprite ihambe ngokukhawuleza. Tshintsha inani elikwiluphu `phinda`{:class="block3control"} ukuze ulungise umgama.
 
-**Tip:** To make the sprite `move`{:class="block3motion"} backwards, you can use negative numbers, for example, `move`{:class="block3motion"} `-3` `steps`{:class="block3motion"}. Or, you can use a `point in direction`{:class="block3motion"} `-90` block to change the sprite's direction before the sprite moves (`-90` points to the left). 
+**Ingcebiso:** Ukuze i-sprite si-`hambe`{:class="block3motion"} ngomva, ungasebenzisa amanani anegetivu, umzekelo, `hamba`{:class="block3motion"} `-3` `amanyathelo`{:class="block3motion"}. Okanye, ungasebenzisa ibhlokho `yolatha kwicala`{:class="block3motion"} `-90`  ukutshintsha ulwalathiso lwe-sprite ngaphambi kokuba i-sprite sihambe (`-90` yolathiisa ngase khohlo). 
 
